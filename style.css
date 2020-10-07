@@ -1,0 +1,107 @@
+#logo{
+  background-image: url("https://www.leonardshawaii.com/images/headersignage.png");
+  margin-left: 500px;
+  margin-right: 470px;
+  padding-bottom: 35px;
+}
+#header-text {
+  width: 500px;
+  text-align: left;
+  margin-left: 400px;
+  padding-top: 50px;
+}
+
+body{
+  background-color: whitesmoke;
+}
+
+.blue{
+  color:#0091C9;
+}
+.pink{
+  color:#FCB0BA;
+}
+
+.banner{
+  background-image: url("https://i.pinimg.com/originals/cd/02/84/cd028426e14450ebcf3fbc6f105a266a.jpg");
+  padding-bottom: 70px;
+  margin-bottom: 30px;
+}
+.ui.borderless.centered.menu{
+  box-shadow: none;
+  border: none;
+  margin-bottom: 50px;
+}
+.footer-background{
+  background-color: #f2f2f2;
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  flex-wrap: wrap;
+}
+
+.navtext{
+  font-family: Calibri;
+  font-size: 23px;
+  margin-right: 20px;
+  color: black;
+}
+.order.text{
+  font-family: Calibri;
+  font-size: 55px;
+  color: black;
+}
+.call.text{
+  font-family: "Brush Script MT";
+  font-size: 30px;
+  color: #C90018;
+}
+.phone.number{
+  font-family: Calibri;
+  font-size: 23px;
+  color: #656363;
+  margin-left: 10px;
+}
+.featured.text{
+  margin-left: 160px;
+  font-family: "Brush Script MT";
+  font-size: 22px;
+  color: #0091C9;
+}
+.flavor.text{
+  margin-left: 10px;
+  font-family: Calibri;
+  font-size: 22px;
+  color: #222222;
+}
+.centered.disclaimer.text{
+  margin-left: 200px;
+  margin-bottom: 50px;
+  font-family: Calibri;
+  font-size: 16px;
+  color: #222222;
+}
+.footer.text{
+  font-family: Calibri;
+  font-size: 14px;
+  color: #818181;
+}
+
+.ui.floated.image.truck{
+  margin-left: 15px;
+}
+.ui.floated.image.malasadas{
+  margin-left: 30px
+}
+.ui.floated.image.sign{
+  margin-left: 30px
+}
+
+.row.order{
+  margin-top: 20px;
+  margin-bottom: 100px;
+}
+
+
